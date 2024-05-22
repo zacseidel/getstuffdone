@@ -8,8 +8,9 @@ A to do list app with points to get more things done.
 
 ## Core Features
 - **Task Input**
-  - Input fields for task name, importance, and category
-  - Add task button to submit new tasks
+  - Input fields for task name, importance, and category - done
+  - Add functions to manage categories
+  - Increase point values over time
 - **Task Display**
   - List of tasks displayed with name, importance, and category
   - Visual indication of completed tasks (strikethrough, opacity change)
