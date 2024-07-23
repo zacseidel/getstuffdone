@@ -1,7 +1,45 @@
 # getstuffdone
 A to do list app with points to get more things done.
 
-## Future enhancements....
+# Thinking through the Taxonomy of Tasks
+
+- Can be recurring or not
+- Can be persistent or not (e.g. if you don't get it done it stays, or you have one chance and it drops)
+- Can be part of a project or a set of tasks (e.g. "run the checklist" concept)
+- Can be part of an area or category (e.g. work, health, logistics)
+- Can be completed, archived, paused, or deleted
+- Can be associated with a time of day, or maybe even a place
+- Take an amount of time to complete
+- Can be a part of a daily, weekly, monthly streak
+- Can be a part of contingent checklist
+- Can be sequential or all at once (e.g. does the next task appear at the same time as previous, or only after the previous one is compelted / deleted / archived, or with some waiting period?
+
+
+## Examples:
+- Morning routine
+- Air BNB checklist
+- MBR
+- Strategy Project at work
+- Jill answering slack messages
+- Start work routine
+- Every two weeks get paid routine
+- Invest in a stock routine
+- Listen to earnings call routine
+- End of week shutdown routine
+- Taxes
+- House maintenance - change the filter.
+
+  
+
+
+"KNOW THY TIME" 
+"Stay encouraged"
+
+
+- 
+
+
+# Future enhancements....
 
 
 # Task Management Game Feature List
